@@ -1,5 +1,7 @@
-def square_array(numbers)
-  arr = []
-  numbers.map { |i| arr << i ** 2 }
-  return arr
+def square_array(array)
+  counter = 0
+
+  while counter < array.length do
+    
+  end
 end
